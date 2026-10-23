@@ -1,0 +1,5 @@
+{
+  "name": "Desird Load Simulator",
+  "description": "A 3D loading simulator for boxes, pallets, and containers, designed for small to medium shipment optimization.",
+  "requestFramePermissions": []
+}
